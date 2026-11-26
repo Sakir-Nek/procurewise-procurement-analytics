@@ -1,0 +1,31 @@
+Supplier_ID,Supplier_Name,Supplier_City,Supplier_State,Supplier_Type,Supplier_Status,Payment_Terms_Days
+SUP-001,Mumbai Manufacturer Solutions 01,Mumbai,Maharashtra,Manufacturer,Active,30
+SUP-002,Pune Distributor Solutions 02,Pune,Maharashtra,Distributor,Active,90
+SUP-003,Bengaluru Manufacturer Solutions 03,Bengaluru,Karnataka,Manufacturer,Active,30
+SUP-004,Mysuru Manufacturer Solutions 04,Mysuru,Karnataka,Manufacturer,Active,15
+SUP-005,Chennai Wholesaler Solutions 05,Chennai,Tamil Nadu,Wholesaler,Active,45
+SUP-006,Coimbatore Wholesaler Solutions 06,Coimbatore,Tamil Nadu,Wholesaler,Active,45
+SUP-007,Hyderabad Distributor Solutions 07,Hyderabad,Telangana,Distributor,Active,90
+SUP-008,Delhi Manufacturer Solutions 08,Delhi,Delhi,Manufacturer,Active,45
+SUP-009,Gurugram Wholesaler Solutions 09,Gurugram,Haryana,Wholesaler,Active,45
+SUP-010,Noida Distributor Solutions 10,Noida,Uttar Pradesh,Distributor,Active,30
+SUP-011,Jaipur Distributor Solutions 11,Jaipur,Rajasthan,Distributor,Active,30
+SUP-012,Ahmedabad Wholesaler Solutions 12,Ahmedabad,Gujarat,Wholesaler,Active,60
+SUP-013,Surat Manufacturer Solutions 13,Surat,Gujarat,Manufacturer,Active,45
+SUP-014,Kolkata Distributor Solutions 14,Kolkata,West Bengal,Distributor,Active,45
+SUP-015,Indore Distributor Solutions 15,Indore,Madhya Pradesh,Distributor,Active,15
+SUP-016,Kochi Manufacturer Solutions 16,Kochi,Kerala,Manufacturer,Active,15
+SUP-017,Nagpur Manufacturer Solutions 17,Nagpur,Maharashtra,Manufacturer,Active,15
+SUP-018,Lucknow Distributor Solutions 18,Lucknow,Uttar Pradesh,Distributor,Active,30
+SUP-019,Mumbai Distributor Solutions 19,Mumbai,Maharashtra,Distributor,Active,45
+SUP-020,Pune Distributor Solutions 20,Pune,Maharashtra,Distributor,Active,60
+SUP-021,Bengaluru Distributor Solutions 21,Bengaluru,Karnataka,Distributor,Active,90
+SUP-022,Mysuru Distributor Solutions 22,Mysuru,Karnataka,Distributor,Active,30
+SUP-023,Chennai Distributor Solutions 23,Chennai,Tamil Nadu,Distributor,Active,90
+SUP-024,Coimbatore Distributor Solutions 24,Coimbatore,Tamil Nadu,Distributor,Active,15
+SUP-025,Hyderabad Distributor Solutions 25,Hyderabad,Telangana,Distributor,Active,15
+SUP-026,Delhi Distributor Solutions 26,Delhi,Delhi,Distributor,Active,30
+SUP-027,Gurugram Distributor Solutions 27,Gurugram,Haryana,Distributor,Active,45
+SUP-028,Noida Distributor Solutions 28,Noida,Uttar Pradesh,Distributor,Active,60
+SUP-029,Jaipur Distributor Solutions 29,Jaipur,Rajasthan,Distributor,Active,60
+SUP-030,Ahmedabad Wholesaler Solutions 30,Ahmedabad,Gujarat,Wholesaler,Active,30
